@@ -13,18 +13,12 @@ GitHub
 📚 SQL Concepts Covered
 
 -SELECT, WHERE
-
 -GROUP BY, ORDER BY
-
-INNER JOIN, LEFT JOIN
-
-Subqueries
-
-Aggregate Functions (COUNT, SUM, AVG)
-
-Views
-
-Indexing
+-INNER JOIN, LEFT JOIN
+-Subqueries
+-Aggregate Functions (COUNT, SUM, AVG)
+-Views
+-Indexing
 
 
 🎯 Learning Outcome
@@ -34,7 +28,9 @@ Practiced real-world business analysis queries
 Optimized queries for better performance
 
 📂 Project Structure
+
 SQL-Data-Analysis/
+
 │── queries.sql
 │── screenshots/
 │── README.md
