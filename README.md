@@ -13,11 +13,17 @@ GitHub
 📚 SQL Concepts Covered
 
 SELECT, WHERE
+
 GROUP BY, ORDER BY
+
 INNER JOIN, LEFT JOIN
+
 Subqueries
+
 Aggregate Functions (COUNT, SUM, AVG)
+
 Views
+
 Indexing
 
 
